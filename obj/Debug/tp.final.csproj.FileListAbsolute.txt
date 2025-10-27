@@ -1,0 +1,7 @@
+C:\Users\Compumar\Desktop\trabojoFinalPoo\tp.final\tp.final\bin\Debug\clientes.csv
+C:\Users\Compumar\Desktop\trabojoFinalPoo\tp.final\tp.final\bin\Debug\cuentas.csv
+C:\Users\Compumar\Desktop\trabojoFinalPoo\tp.final\tp.final\bin\Debug\tp.final.exe
+C:\Users\Compumar\Desktop\trabojoFinalPoo\tp.final\tp.final\bin\Debug\tp.final.pdb
+C:\Users\Compumar\Desktop\trabojoFinalPoo\tp.final\tp.final\obj\Debug\tp.final.csprojResolveAssemblyReference.cache
+C:\Users\Compumar\Desktop\trabojoFinalPoo\tp.final\tp.final\obj\Debug\tp.final.exe
+C:\Users\Compumar\Desktop\trabojoFinalPoo\tp.final\tp.final\obj\Debug\tp.final.pdb
